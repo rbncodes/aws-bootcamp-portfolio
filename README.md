@@ -4,7 +4,7 @@ A comprehensive technical portfolio documenting my hands-on journey through a 10
 
 ## 📁 Portfolio Document
 
-**[View my AWS Bootcamp Portfolio] [AWS BootCamp Portfolio-Reuben-Ruzvidzo.pdf](https://github.com/user-attachments/files/21856635/AWS.BootCamp.Portfolio-Reuben-Ruzvidzo.pdf)**
+**View my AWS Bootcamp Portfolio [AWS BootCamp Portfolio-Reuben-Ruzvidzo.pdf](https://github.com/user-attachments/files/21856635/AWS.BootCamp.Portfolio-Reuben-Ruzvidzo.pdf)**
 
 ## 🏗️ Skills & Technologies Demonstrated
 
